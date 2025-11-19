@@ -9,7 +9,7 @@ The project uses docker & docker-compose for development
 
 ## Running the Project
 
-1. Start services with Docker Compose
+Start services with Docker Compose
 - docker-compose up --build
 
 This launches:
