@@ -1,11 +1,4 @@
-# --- RabbitMQ / Async Messaging ---
 aio-pika
-
-# --- MongoDB / Async DB ---
 motor
-
-# --- Validation / Typing ---
-pydantic
-mypy
 pytest
 pytest-asyncio
